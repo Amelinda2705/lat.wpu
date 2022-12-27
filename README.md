@@ -1,2 +1,2 @@
 # lat.wpu
-playlist css3
+recreate from wpu's playlist (css 3)
